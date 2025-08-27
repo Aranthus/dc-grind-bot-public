@@ -1,0 +1,104 @@
+{
+    "project_info": {
+        "name": "prismax",
+        "title": "Prismax - AI Training for Robots",
+        "description": "Building a large library of videos and data showing everyday tasks for robot AI training"
+    },
+    "channels": {
+        "general": {
+            "keywords": ["general", "chat", "talk", "discuss"],
+            "channel_mention": "#general",
+            "channel_id": "1288097373989371965",
+            "description": "general discussions and chat"
+        },
+        "core_announcement": {
+            "keywords": ["news", "update", "announcement", "release", "launch", "new"],
+            "channel_mention": "#core-announcement",
+            "channel_id": "1288649304172396554",
+            "description": "official project announcements and updates"
+        },
+        "faq": {
+            "keywords": ["faq", "question", "how to", "guide", "tutorial", "info", "instructions"],
+            "channel_mention": "#faq",
+            "channel_id": "1288589891772485742",
+            "description": "frequently asked questions and guides"
+        },
+        "support": {
+            "keywords": ["help", "problem", "issue", "support", "assistance"],
+            "channel_mention": "#support",
+            "channel_id": "1395382030723842169",
+            "description": "general support and help"
+        },
+        "tech_support": {
+            "keywords": ["technical", "tech", "bug", "error", "broken", "not working", "technical issue"],
+            "channel_mention": "#tech-support",
+            "channel_id": "1385107979719671868",
+            "description": "technical support and troubleshooting"
+        },
+        "resources": {
+            "keywords": ["resource", "documentation", "docs", "guide", "whitepaper"],
+            "channel_mention": "#resources",
+            "channel_id": "1394919310400552991",
+            "description": "project resources and documentation"
+        },
+        "official_links": {
+            "keywords": ["link", "official", "website", "social", "twitter", "telegram"],
+            "channel_mention": "#official-links",
+            "channel_id": "1288573695329173574",
+            "description": "official project links and social media"
+        },
+        "community_board": {
+            "keywords": ["community", "discussion", "board", "forum"],
+            "channel_mention": "#community-board",
+            "channel_id": "1394919165432959056",
+            "description": "community discussions and board"
+        },
+        "community_activities": {
+            "keywords": ["activity", "event", "contest", "giveaway", "campaign"],
+            "channel_mention": "#community-activities",
+            "channel_id": "1396761691576078357",
+            "description": "community events and activities"
+        },
+        "region_communities": {
+            "keywords": ["region", "local", "country", "language", "regional"],
+            "channel_mention": "#region-communities",
+            "channel_id": "1400004176129560686",
+            "description": "regional community discussions"
+        },
+        "gprisma": {
+            "keywords": ["good morning", "gm", "greeting", "hello", "morning"],
+            "channel_mention": "#gprisma",
+            "channel_id": "1288588450429276180",
+            "description": "daily greetings and good morning messages"
+        },
+        "meme": {
+            "keywords": ["meme", "funny", "humor", "joke", "fun"],
+            "channel_mention": "#meme",
+            "channel_id": "1288964377827082280",
+            "description": "memes and fun content"
+        },
+        "mascot_search": {
+            "keywords": ["mascot", "art", "design", "creative", "artist", "creator"],
+            "channel_mention": "#mascot-search",
+            "channel_id": "1398295875205464214",
+            "description": "mascot design and creator content"
+        },
+        "report_scam": {
+            "keywords": ["scam", "report", "fraud", "fake", "suspicious", "security"],
+            "channel_mention": "#report-scam",
+            "channel_id": "1394932835584053328",
+            "description": "report scams and suspicious activities"
+        }
+    },
+    "common_responses": {
+        "channel_suggestion": [
+            "Hey, you might get better help in {channel_mention}! 👉",
+            "For that, check out {channel_mention} - they'll sort you out! 🔧",
+            "Try asking in {channel_mention}, that's where the experts hang out! 🎯"
+        ],
+        "generic_help": [
+            "If you need help, check out #support or #faq! 🆘",
+            "For general questions, #faq is your friend! 📚"
+        ]
+    }
+}

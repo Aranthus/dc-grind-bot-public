@@ -1,0 +1,43 @@
+{
+    "project_info": {
+        "name": "example_project",
+        "title": "WOOF Token - Community Meme Coin",
+        "description": "Decentralized meme token with community focus and animal charity donations"
+    },
+    "channels": {
+        "general": {
+            "keywords": ["general", "chat", "talk", "discuss"],
+            "channel_mention": "#general",
+            "description": "general discussions and chat"
+        },
+        "faq": {
+            "keywords": ["whitelist", "how to", "guide", "tutorial", "info", "instructions", "faq"],
+            "channel_mention": "#faq",
+            "description": "frequently asked questions and guides"
+        },
+        "support": {
+            "keywords": ["help", "problem", "issue", "bug", "error", "broken", "not working", "support"],
+            "channel_mention": "#support",
+            "description": "technical support and help"
+        },
+        "announcements": {
+            "keywords": ["news", "update", "announcement", "release", "launch", "new"],
+            "channel_mention": "#announcements",
+            "description": "project updates and announcements"
+        },
+        "creators_chat": {
+            "keywords": ["create", "content", "creator", "art", "design", "collaboration"],
+            "channel_mention": "#creators-chat",
+            "description": "creator discussions and collaborations"
+        }
+    },
+    "common_responses": {
+        "channel_suggestion": [
+            "You might want to check out {channel_mention} for that! 👍",
+            "Head over to {channel_mention} - that's the right place! 🎯"
+        ],
+        "generic_help": [
+            "For help, try #support or #faq! 🆘"
+        ]
+    }
+}
